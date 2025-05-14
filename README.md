@@ -5,7 +5,7 @@
 
 This project is part of a data analysis challenge by [Codebasics](https://www.codebasics.io/) aimed at helping **AtliQ Mart**, a prominent FMCG retail chain in southern India, analyze the effectiveness of its promotional campaigns during **Diwali 2023** and **Sankranti 2024**.
 
-As a data analyst (Peter Pandey), I was tasked to deliver actionable insights directly to the Sales Director by analyzing sales data across stores, campaigns, products, and promotion types.
+As a data analyst, I was tasked to deliver actionable insights directly to the Sales Director by analyzing sales data across stores, campaigns, products, and promotion types.
 
 ---
 
