@@ -90,7 +90,7 @@ The project utilizes four key datasets:
 ## 👋 Contact
 
 **Rohanur Rahman**  
-[LinkedIn](https://www.linkedin.com/in/ontu001/) | [Portfolio](https://ontu001.github.io/) | [Email](mailto:ontu001@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ontu001/) | [Portfolio](https://ontu001.github.io/Rohanur-Rahman/) | [Email](mailto:ontu001@gmail.com)
 
 ---
 
